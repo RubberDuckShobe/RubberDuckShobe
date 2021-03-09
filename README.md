@@ -7,3 +7,5 @@ he/him btw
 - ~~procrasting instead of~~ working on adVanceBepis because OLDTV good game
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rubberduckshobe)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubberduckshobe)](https://github.com/anuraghazra/github-readme-stats)
