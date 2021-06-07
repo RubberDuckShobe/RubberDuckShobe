@@ -10,4 +10,5 @@ i am rubber duck shobe, professional dog
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubberduckshobe)](https://github.com/anuraghazra/github-readme-stats)
 
 should you want to for some reason then you can fund my stuff by donating:
+
 ETH: 0xEb68cA085cdf012beeEaC64bfd9a48a79876E06c
