@@ -5,5 +5,3 @@ I made [audiosurf-rpc](https://github.com/AudiosurfResearch/audiosurf-rpc) and f
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rubberduckshobe)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubberduckshobe)](https://github.com/anuraghazra/github-readme-stats)
-
-ETH: 0xEb68cA085cdf012beeEaC64bfd9a48a79876E06c
